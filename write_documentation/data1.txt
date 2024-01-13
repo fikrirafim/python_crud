@@ -1,0 +1,3 @@
+data baru
+A_2DATA_1
+DATA_2
